@@ -10,5 +10,5 @@ def analyze_damage(image):
     # Stima severità 
     # Genera report PDF
     return damage_report
-
+# DA RIVEDERE
 # Deploy su Streamlit Cloud (gratis)
